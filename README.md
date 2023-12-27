@@ -3,7 +3,7 @@ a java application to act as a capstone for the master IT course
 
 ### Software requirements are:
 Make the world a better place with this piece of software.  
-  - ?
+  - Uses Java EE API to connect a database to a front end web page
   - ?
 
 ### Development requirements
